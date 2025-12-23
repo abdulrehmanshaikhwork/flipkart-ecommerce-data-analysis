@@ -139,5 +139,5 @@ This project demonstrates practical skills in data scraping, cleaning, explorato
 ---
 
 ## 👤 Author
-**Abdul Rehman Shaikh**  
+**AbdulRehman Shaikh**  
 Aspiring Data Analyst | Python | Pandas | Data Visualization
